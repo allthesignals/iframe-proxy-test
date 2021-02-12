@@ -1,0 +1,11 @@
+{
+  "name": "iframe-proxy-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/allthesignals/iframe-proxy-test.git",
+  "author": "allthesignals <wilburnforce@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "superagent": "^6.1.0"
+  }
+}
